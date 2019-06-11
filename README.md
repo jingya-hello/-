@@ -1,5 +1,23 @@
 # CS5656 Deep Learning Homeworks and Competitions
 
+## Homworks
+1. Lab2 : EDA_PCA
+2. Lab3 : Decision Tree & Random Forest
+3. Lab4 : Perceptron, Adaline, and Optimization
+4. Lab5 : Regression
+5. Lab6 : Regularization 
+6. Lab7 : Logistic regression and Evaluation metrics
+7. Lab8 : Non-Parametric Methods & SVMs 
+8. Lab9 : CV_Ensembleing
+9. Lab10 : TensorFlow101 and Word2vec
+10. Lab12_1 : CNN
+11. Lab12_2 : Visualization_and_Style_Transfer
+12. Lab13 : Seq2Seq Learning for Machine Translation
+13. Lab14_1 : Autoencoder
+14. Lab14_2 : GAN
+15. Lab16 Q-Learning
+16. Lab17 : DQN&Policy Network
+
 ## [DataLab Cup 1: Predicting Appropriate Response](https://nthu-datalab.github.io/ml/competitions/01_Response_Selection/01_Response_Selection.html)
 In this competition, you have to select the most appropriate response from 6 candidates based on previous chat message. You are provided with lines of total 8 tv programs as training data, and each program has serveral episodes. You also get a question collection which contains 1 chat history and 6 condidate responses for each question. Your goal is to learn a function that is able to predict the best response.
 
