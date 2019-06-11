@@ -1,6 +1,6 @@
 # CS5656 Deep Learning Homeworks and Competitions
 
-## Homworks
+## Homeworks
 1. Lab2 : EDA_PCA
 2. Lab3 : Decision Tree & Random Forest
 3. Lab4 : Perceptron, Adaline, and Optimization
